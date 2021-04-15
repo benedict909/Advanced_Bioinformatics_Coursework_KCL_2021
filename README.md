@@ -4,8 +4,8 @@
 
 **Candidate Number:** 18040
 
-Repository containing my coursework submission for the Advanced Bioinformatics Module. 
-\
+Repository containing my coursework submission for the Advanced Bioinformatics Module.   
+
 
 ## File description:
 
